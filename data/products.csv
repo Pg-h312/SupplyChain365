@@ -1,0 +1,16 @@
+Product_ID,Product,Category
+P001,Laptop,Electronics
+P002,Smartphone,Electronics
+P003,Headphones,Electronics
+P004,Monitor,Electronics
+P005,Keyboard,Electronics
+P006,T-Shirt,Apparel
+P007,Jeans,Apparel
+P008,Jacket,Apparel
+P009,Sofa,Home & Living
+P010,Dining Table,Home & Living
+P011,Car Seat,Automotive
+P012,Engine Oil,Automotive
+P013,Face Cream,Health & Beauty
+P014,Shampoo,Health & Beauty
+P015,Other Product,Others
